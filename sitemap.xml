@@ -1117,7 +1117,7 @@
   </url>
   
   <url>
-    <loc>https://sleepyfox-github.github.io/categories/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/</loc>
+    <loc>https://sleepyfox-github.github.io/categories/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E5%9B%BE%E8%AE%BA/</loc>
     <lastmod>2024-05-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1131,14 +1131,7 @@
   </url>
   
   <url>
-    <loc>https://sleepyfox-github.github.io/categories/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E5%9B%BE%E8%AE%BA/</loc>
-    <lastmod>2024-05-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://sleepyfox-github.github.io/categories/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E6%8E%A8%E5%AF%BC%E4%B8%8E%E9%80%92%E5%BD%92/</loc>
+    <loc>https://sleepyfox-github.github.io/categories/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/</loc>
     <lastmod>2024-05-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1146,6 +1139,13 @@
   
   <url>
     <loc>https://sleepyfox-github.github.io/categories/%E9%A1%B9%E7%9B%AE/C/</loc>
+    <lastmod>2024-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://sleepyfox-github.github.io/categories/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E6%8E%A8%E5%AF%BC%E4%B8%8E%E9%80%92%E5%BD%92/</loc>
     <lastmod>2024-05-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1180,14 +1180,14 @@
   </url>
   
   <url>
-    <loc>https://sleepyfox-github.github.io/categories/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/%E5%B7%A5%E5%85%B7%E9%93%BE/</loc>
+    <loc>https://sleepyfox-github.github.io/categories/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6/</loc>
     <lastmod>2024-05-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://sleepyfox-github.github.io/categories/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6/</loc>
+    <loc>https://sleepyfox-github.github.io/categories/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/%E5%B7%A5%E5%85%B7%E9%93%BE/</loc>
     <lastmod>2024-05-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1278,20 +1278,6 @@
   </url>
   
   <url>
-    <loc>https://sleepyfox-github.github.io/categories/C/%E5%87%BD%E6%95%B0%E5%AE%9E%E7%8E%B0/</loc>
-    <lastmod>2024-05-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://sleepyfox-github.github.io/categories/Python/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</loc>
-    <lastmod>2024-05-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://sleepyfox-github.github.io/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/</loc>
     <lastmod>2024-05-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -1306,7 +1292,14 @@
   </url>
   
   <url>
-    <loc>https://sleepyfox-github.github.io/categories/C/STL/</loc>
+    <loc>https://sleepyfox-github.github.io/categories/C/%E5%87%BD%E6%95%B0%E5%AE%9E%E7%8E%B0/</loc>
+    <lastmod>2024-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://sleepyfox-github.github.io/categories/Python/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</loc>
     <lastmod>2024-05-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1314,6 +1307,13 @@
   
   <url>
     <loc>https://sleepyfox-github.github.io/categories/%E7%A4%BE%E4%BC%9A/%E4%BA%BA%E7%89%A9/</loc>
+    <lastmod>2024-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://sleepyfox-github.github.io/categories/C/STL/</loc>
     <lastmod>2024-05-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
