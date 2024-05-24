@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://sleepyfox-github.github.io/2024/04/09/leetcode_46_%E5%85%A8%E6%8E%92%E5%88%97/</loc>
+    
+    <lastmod>2024-05-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://sleepyfox-github.github.io/2024/04/08/leetcode_491_%E9%9D%9E%E9%80%92%E5%87%8F%E5%AD%90%E5%BA%8F%E5%88%97/</loc>
     
     <lastmod>2024-05-24</lastmod>
